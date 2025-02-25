@@ -29,4 +29,4 @@ frase = f"Hello, {nome_usuario}"
 
 # Saída de dados'
 
-29 print(frase)
+print(frase)
